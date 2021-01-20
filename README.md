@@ -9,5 +9,6 @@ Voertuig
 + Fiets
 +  + Bromfiets
 
-Van alle typen worden een of meer instanties gemaakt die willekeuring inhet rond rijden.
+Van alle typen worden een of meer instanties gemaakt die willekeuring in het rond rijden.
 Hierbij wisseld de richting en de afstand.
+Eventuele botsingen worden geregstreerd en geteld.
